@@ -40,5 +40,5 @@ jobs:
           project: "error0-notionnext-34"
           entrypoint: "jsr:@deno/nextjs-start"
           root: "."
-          include: .next, public
+          
           
