@@ -38,7 +38,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "error0-notionnext-34"
-          entrypoint: "jsr:@deno/nextjs-start/v15"
+          entrypoint: "npm run start"
           root: ".next"
           
           
