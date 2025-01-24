@@ -39,6 +39,6 @@ jobs:
         with:
           project: "error0-notionnext-34"
           entrypoint: "jsr:@deno/nextjs-start"
-          root: ".next"
+          root: ""
           
           
